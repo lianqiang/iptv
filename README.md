@@ -9,6 +9,7 @@ A maintained M3U playlist for APTV and other IPTV players. It combines local IPT
 - Current size: 169 channels
 - Local streams: 79 channels routed through `192.168.10.1`
 - Public streams: 90 channels
+- Metadata: every channel includes a display logo and category
 
 Local streams require access to the configured home network and IPTV relay. Public streams may be unavailable in some regions or may change without notice.
 
@@ -21,6 +22,17 @@ Local streams require access to the configured home network and IPTV relay. Publ
 
 The playlist includes an XMLTV EPG URL in its `#EXTM3U` header. Compatible players should load it automatically.
 
+## Channel Groups
+
+The playlist is organized into 14 player-friendly groups:
+
+- 央视, 卫视, 北京, CGTN, and 4K
+- 港澳 and 台湾
+- 国际新闻 and 国际综合
+- 纪录, 生活, 体育, 电影, and 少儿
+
+Each entry includes `tvg-name`, `tvg-logo`, and `group-title` metadata where applicable. EPG names are kept compatible with the configured XMLTV source.
+
 ## Maintenance
 
 Public streams are tested in the macOS APTV app. Direct HLS renditions are preferred when master playlists or redirect endpoints are incompatible with APTV.
@@ -29,6 +41,7 @@ When editing the playlist:
 
 - Keep each `#EXTINF` entry immediately followed by one stream URL.
 - Confirm that the number of `#EXTINF` entries matches the number of stream URLs.
+- Keep `tvg-logo` and `group-title` metadata present on every channel.
 - Reject test cards, no-signal feeds, and streams carrying a different channel.
 - Prefer stable HTTPS sources and exact channel matches.
 
