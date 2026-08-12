@@ -274,12 +274,8 @@ https://ha.msbot.dpdns.org/4gtv_api.php?id=184
 http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
 #EXTINF:-1 tvg-name="人间卫视" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/BLTV.png",人间卫视
 https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
-#EXTINF:-1 tvg-name="八大戏剧HD" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720155115252575_13.png",八大戏剧台
-http://61.221.215.25:8800/hls/39/index.m3u8
 #EXTINF:-1 tvg-name="AMC电影" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/AMCMovies.png",AMC电影台
 https://t.freetv.fun/live/amcdian-ying.m3u8
-#EXTINF:-1 tvg-name="CAT电影" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/CatchPlay1.png",CAT电影
-http://litv.zapi.us.kg/?id=4gtv-4gtv076
 #EXTINF:-1 tvg-name="数位电影" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/FANS1.png",数位电影
 https://t.freetv.fun/live/ying-mi-shu-wei-dian-ying.m3u8
 #EXTINF:-1 tvg-name="龙华电影" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/LTV1.png",龙华电影
@@ -302,8 +298,6 @@ https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 https://t.freetv.fun/live/axs-tv.m3u8
 #EXTINF:-1 tvg-name="Newsmax",Newsmax
 https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/3.m3u8
-#EXTINF:-1 tvg-name="Dubai One",Dubai One
-http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b1800000.m3u8
 #EXTINF:-1 tvg-name="Al Jazeera",Al Jazeera
 https://t.freetv.fun/live/al-jazeera.m3u8
 #EXTINF:-1 tvg-name="Arirang",Arirang
@@ -321,8 +315,6 @@ https://live-gbnews.simplestreamcdn.com/live5/gbnews/bitrate1.isml/bitrate1-audi
 https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
 #EXTINF:-1 tvg-name="RT Documentary",RT Documentary
 https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8
-#EXTINF:-1 tvg-name="Taiwan Plus",Taiwan Plus
-https://fastly.live.brightcove.com/6385235869112/ap-northeast-1/6282251407001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiaWU4OWZvLmVncmVzcy5pdjNqZDgiLCJhY2NvdW50X2lkIjoiNjI4MjI1MTQwNzAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MjgyMjUxNDA3MDAxIl0sImp0aSI6IjYzODUyMzU4NjkxMTIifQ.4c-V1Ks3nBx9nRljtn5-jCNP_nLuWBbk-pw9BFWZfMQ/playlist-hls.m3u8
 #EXTINF:-1 tvg-name="ION Plus",ION Plus
 https://gpuserver4.tier1streams.com/ION_PLUS/index.m3u8
 #EXTINF:-1 tvg-name="ION",ION
@@ -337,8 +329,6 @@ https://a-cdn.klowdtv.com/live2/fight_720p/playlist.m3u8
 https://wildearth-plex.amagi.tv/masterR1080p.m3u8
 #EXTINF:-1 tvg-name="Wild Planet",Wild Planet
 https://d1h8whhtg5u7om.cloudfront.net/1080p/index.m3u8
-#EXTINF:-1 tvg-name="Clarity 4K",Clarity 4K
-https://i.mjh.nz/SamsungTVPlus/USBA3800005NI.m3u8
 #EXTINF:-1 tvg-name="Stadium",Stadium
 https://aegis-cloudfront-1.tubi.video/74681dcc-e6d0-4add-ad67-a22ad9c152e6/playlist_6.m3u8
 #EXTINF:-1 tvg-name="Trace Sports",Trace Sports
