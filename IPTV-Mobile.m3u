@@ -232,7 +232,7 @@ https://t.freetv.fun/live/dong-sen-xin-wen.m3u8
 #EXTINF:-1 tvg-name="东森超视" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/EBC2.png",东森超视
 rtmp://f13h.mine.nu/sat/tv331
 #EXTINF:-1 tvg-name="东森财经" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/EBC7.png",东森财经
-https://ha.msbot.dpdns.org/4gtv_api.php?id=211
+https://ha.msbot.dpdns.org/4gtv_api.php?id=211#.m3u8
 #EXTINF:-1 tvg-name="民视新闻台" tvg-logo="https://live.fanmingming.cn/tv/民视新闻台.png",民视新闻台
 https://t.freetv.fun/live/min-shi-xin-wen-1-1.m3u8
 #EXTINF:-1 tvg-name="民视台湾台" tvg-logo="https://live.fanmingming.cn/tv/民视台湾台.png",民视台湾台
