@@ -191,7 +191,7 @@ https://t.freetv.fun/live/fei-cui.m3u8
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://live.fanmingming.cn/tv/翡翠台.png",TVB翡翠台 4K
 https://cdn6.cc.cd/163189/fct4k#.m3u8
 #EXTINF:-1 tvg-name="明珠台" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/TVB2.png",TVB明珠台
-https://cdn6.cc.cd/163189/mzt#.m3u8
+https://t.freetv.fun/live/ming-zhu-2.m3u8
 #EXTINF:-1 tvg-name="TVBJ1" tvg-logo="https://gitee.com/suxuang/logo/raw/master/logo/TVBJ1.png",TVB J1
 https://t.freetv.fun/live/tvbj1.m3u8
 #EXTINF:-1 tvg-name="TVBPlus" tvg-logo="https://isus.cc/share/logo/TVBPlus.png",TVB Plus
