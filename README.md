@@ -33,6 +33,8 @@ The playlist is organized into 14 player-friendly groups:
 
 Each entry includes `tvg-name`, `tvg-logo`, and `group-title` metadata where applicable. EPG names are kept compatible with the configured XMLTV source.
 
+Logos that otherwise disappear on dark player backgrounds are normalized as 512×288 PNG cards in [`logos`](./logos).
+
 ## Maintenance
 
 Public streams are tested in the macOS APTV app. Direct HLS renditions are preferred when master playlists or redirect endpoints are incompatible with APTV.
@@ -42,6 +44,7 @@ When editing the playlist:
 - Keep each `#EXTINF` entry immediately followed by one stream URL.
 - Confirm that the number of `#EXTINF` entries matches the number of stream URLs.
 - Keep `tvg-logo` and `group-title` metadata present on every channel.
+- Check logo legibility on both light and dark player backgrounds.
 - Reject test cards, no-signal feeds, and streams carrying a different channel.
 - Prefer stable HTTPS sources and exact channel matches.
 

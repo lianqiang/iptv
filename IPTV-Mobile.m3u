@@ -283,7 +283,7 @@ https://t.freetv.fun/live/long-hua-dian-ying.php
 https://t.freetv.fun/live/jing-tian-dian-ying.m3u8
 #EXTINF:-1 tvg-name="CNN" tvg-logo="https://live.fanmingming.cn/tv/CNN.png" group-title="国际新闻",CNN
 https://jmp2.uk/stvp-GBBD8000016N
-#EXTINF:-1 tvg-name="BBC" tvg-logo="https://live.fanmingming.cn/tv/BBCWORLDNEWSASIA.png" group-title="国际新闻",BBC
+#EXTINF:-1 tvg-name="BBC" tvg-logo="https://raw.githubusercontent.com/lianqiang/iptv/refs/heads/main/logos/bbc.png" group-title="国际新闻",BBC
 https://t.freetv.fun/live/bbc-news.m3u8
 #EXTINF:-1 tvg-name="CNA" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CNA.png" group-title="国际新闻",CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
@@ -293,7 +293,7 @@ https://t.freetv.fun/live/nbc-news-now-2.m3u8
 https://t.freetv.fun/live/sky-news.m3u8
 #EXTINF:-1 tvg-name="Wion News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Wion.png" group-title="国际新闻",Wion News
 https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
-#EXTINF:-1 tvg-name="AXS TV Now" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/AXS_TV_logo.svg/960px-AXS_TV_logo.svg.png" group-title="国际新闻",AXS TV Now
+#EXTINF:-1 tvg-name="AXS TV Now" tvg-logo="https://raw.githubusercontent.com/lianqiang/iptv/refs/heads/main/logos/axs-tv-now.png" group-title="国际新闻",AXS TV Now
 https://t.freetv.fun/live/axs-tv.m3u8
 #EXTINF:-1 tvg-name="Newsmax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Newsmax_logo.svg/960px-Newsmax_logo.svg.png" group-title="国际新闻",Newsmax
 https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/3.m3u8
@@ -301,12 +301,12 @@ https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/3.m3u8
 https://t.freetv.fun/live/al-jazeera.m3u8
 #EXTINF:-1 tvg-name="Arirang" tvg-logo="https://live.fanmingming.cn/tv/ArirangTV.png" group-title="国际新闻",Arirang
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
-#EXTINF:-1 tvg-name="Bloomberg Asia" tvg-logo="https://live.fanmingming.cn/tv/BloombergTV.png" group-title="国际新闻",Bloomberg Asia
+#EXTINF:-1 tvg-name="Bloomberg Asia" tvg-logo="https://raw.githubusercontent.com/lianqiang/iptv/refs/heads/main/logos/bloomberg-asia.png" group-title="国际新闻",Bloomberg Asia
 https://www.bloomberg.com/media-manifest/streams/asia.m3u8
 #http://210.210.155.37/dr9445/h/h03/index.m3u8
-#EXTINF:-1 tvg-name="Bloomberg Originals" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Bloomberg_Originals.png" group-title="国际新闻",Bloomberg Originals
+#EXTINF:-1 tvg-name="Bloomberg Originals" tvg-logo="https://raw.githubusercontent.com/lianqiang/iptv/refs/heads/main/logos/bloomberg-originals.png" group-title="国际新闻",Bloomberg Originals
 https://live-qt-primary.global.ssl.fastly.net/qt/Channel-QT-TX-AWS-virginia-2/Source-QT-10M-2-sn9jy9-BP-07-02-oNnPi5xc6sq_live.m3u8
-#EXTINF:-1 tvg-name="CBN News" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CBNNEWS.png" group-title="国际新闻",CBN News
+#EXTINF:-1 tvg-name="CBN News" tvg-logo="https://raw.githubusercontent.com/lianqiang/iptv/refs/heads/main/logos/cbn-news.png" group-title="国际新闻",CBN News
 https://fastly.live.brightcove.com/6380396819112/us-east-1/734546207001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiczFpM3ZpLmVncmVzcy50N2M3emwiLCJhY2NvdW50X2lkIjoiNzM0NTQ2MjA3MDAxIiwiZWhuIjoiZmFzdGx5LmxpdmUuYnJpZ2h0Y292ZS5jb20iLCJpc3MiOiJibGl2ZS1wbGF5YmFjay1zb3VyY2UtYXBpIiwic3ViIjoicGF0aG1hcHRva2VuIiwiYXVkIjpbIjczNDU0NjIwNzAwMSJdLCJqdGkiOiI2MzgwMzk2ODE5MTEyIn0.GDYp4IWtzwPkupEWeeOavnioVknO-Ev3UGlHvM1rE6I/chunklist__4.m3u8
 #EXTINF:-1 tvg-name="GB News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/GB_News_Logo.svg/960px-GB_News_Logo.svg.png" group-title="国际新闻",GB News
 https://live-gbnews.simplestreamcdn.com/live5/gbnews/bitrate1.isml/bitrate1-audio_0=192000-video=4499968.m3u8
@@ -314,27 +314,27 @@ https://live-gbnews.simplestreamcdn.com/live5/gbnews/bitrate1.isml/bitrate1-audi
 https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
 #EXTINF:-1 tvg-name="RT Documentary" tvg-logo="https://live.fanmingming.cn/tv/RTDoc.png" group-title="国际新闻",RT Documentary
 https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8
-#EXTINF:-1 tvg-name="ION Plus" tvg-logo="https://img.platform.wurl.dev/channel/378/lg/165a68/LG-400x225_v1.png" group-title="国际综合",ION Plus
+#EXTINF:-1 tvg-name="ION Plus" tvg-logo="https://raw.githubusercontent.com/lianqiang/iptv/refs/heads/main/logos/ion-plus.png" group-title="国际综合",ION Plus
 https://gpuserver4.tier1streams.com/ION_PLUS/index.m3u8
-#EXTINF:-1 tvg-name="ION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Ion_logo.svg/960px-Ion_logo.svg.png" group-title="国际综合",ION
+#EXTINF:-1 tvg-name="ION" tvg-logo="https://raw.githubusercontent.com/lianqiang/iptv/refs/heads/main/logos/ion.png" group-title="国际综合",ION
 https://gpuserver4.tier1streams.com/ION_TV/index.m3u8
 #EXTINF:-1 tvg-name="Love Nature" tvg-logo="https://live.fanmingming.cn/tv/LoveNature.png" group-title="纪录",Love Nature
 https://aegis-cloudfront-1.tubi.video/6d6d0f24-8445-4b4c-bdf6-44f9e38beaa4/720p-cc/index.m3u8
 #EXTINF:-1 tvg-name="Fashion TV" tvg-logo="https://live.fanmingming.cn/tv/fashiontv.png" group-title="生活",Fashion TV
 https://edge-fast3.evrideo.tv/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/video_10801920_p_0.m3u8
-#EXTINF:-1 tvg-name="Fight Network" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/FIGHTNETWORK.png" group-title="体育",Fight Network
+#EXTINF:-1 tvg-name="Fight Network" tvg-logo="https://raw.githubusercontent.com/lianqiang/iptv/refs/heads/main/logos/fight-network.png" group-title="体育",Fight Network
 https://a-cdn.klowdtv.com/live2/fight_720p/playlist.m3u8
 #EXTINF:-1 tvg-name="Wild Earth" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Wild_Earth.png" group-title="纪录",Wild Earth
 https://wildearth-plex.amagi.tv/masterR1080p.m3u8
 #EXTINF:-1 tvg-name="Wild Planet" tvg-logo="https://live.fanmingming.cn/tv/WILD%20PLANET.png" group-title="纪录",Wild Planet
 https://d1h8whhtg5u7om.cloudfront.net/1080p/index.m3u8
-#EXTINF:-1 tvg-name="Stadium" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Stadium_%28sports_network%29_logo.svg/960px-Stadium_%28sports_network%29_logo.svg.png" group-title="体育",Stadium
+#EXTINF:-1 tvg-name="Stadium" tvg-logo="https://raw.githubusercontent.com/lianqiang/iptv/refs/heads/main/logos/stadium.png" group-title="体育",Stadium
 https://aegis-cloudfront-1.tubi.video/74681dcc-e6d0-4add-ad67-a22ad9c152e6/playlist_6.m3u8
 #EXTINF:-1 tvg-name="Trace Sports" tvg-logo="https://live.fanmingming.cn/tv/TRACESportStars.png" group-title="体育",Trace Sports
 https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 tvg-name="Pop" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/POP.png" group-title="国际综合",Pop
 https://narrative-popkids-rakuten.amagi.tv/720p/index.m3u8
-#EXTINF:-1 tvg-name="Tastemade" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/TastemadeLogo.svg/960px-TastemadeLogo.svg.png" group-title="生活",Tastemade
+#EXTINF:-1 tvg-name="Tastemade" tvg-logo="https://raw.githubusercontent.com/lianqiang/iptv/refs/heads/main/logos/tastemade.png" group-title="生活",Tastemade
 https://tastemade-tdint-rakuten.amagi.tv/playlistR1080p.m3u8
 #EXTINF:-1 tvg-name="MovieSphere" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/MovieSphere.jpg" group-title="电影",MovieSphere
 https://aegis-cloudfront-1.tubi.video/8b127a5b-3054-4f39-93a2-1c4aab9ef5ff/1080p-en-cc/index.m3u8
